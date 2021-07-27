@@ -1,0 +1,37 @@
+Game Design Document
+Fill up the following document 
+
+________________________________________
+
+
+1.	Write the title of your project.
+
+    Help them Cross!
+
+________________________________________
+
+
+2.	What is the goal of the game? 
+
+The goal of the game is to help the robots cross the street without them getting wet.
+________________________________________
+
+
+3.	Write a brief story of your game.
+
+ Here in Robot City everything is perfect the only flaw is that the robots are not waterproof. 
+ Usually they avoid anything related to water but on this day an unexpected thunderstorm hit the city. 
+ Help the citizens of Robot City cross the street without them getting wet! 
+________________________________________
+
+
+
+________________________________________
+
+
+ 
+4.	Which are the playing characters of this game? 
+
+    The playing character is the umbrella that shields the robots. 
+
+
